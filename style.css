@@ -116,3 +116,6 @@ section .section-inner h2{
         font-size: 2.2rem;
     }
 }
+.peopleInfo{
+    background-image: url('abc.jpg');
+}
